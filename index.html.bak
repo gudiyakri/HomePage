@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <title>Online Learning Platform for Professional Skills Training | Skillfin Learning</title>
+<link rel="stylesheet" href="style.css">
+<script src="HomePage.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="SlideShow.js"></script>
+ </head>
+ <body>
+  <header id="header">
+  <div id="logo-div">
+  <img src="image\section1\img1.png">
+  </div>
+<div id="nav-div">
+<a href="#home">Home</a>
+  <a href="#free">Free</a>
+  <a href="#blog">Blog</a>
+  <a href="#login">Login</a>
+    <a class="active"href="#sign up">Sign Up</a>
+  </div>
+  </header>
+  <div id="container">
+  <div id="slide-area">
+  <img id="image">
+  </div>
+  <div id="about">
+   <h1><strong>ABOUT US:</strong></h1><br/><br/><br/><br/><br/>
+   <p><big>We&nbsp;are an online higher education start-up&nbsp;providing professional up-skilling courses to participants around the world. More than 65,000 learners have taken 1 or more of our online programs&nbsp;spending more than 3 Mn + minutes of learning on our programs.&nbsp; &nbsp;We believe we can change the way we adults learn. Generally, people find education to be boring. Most of us study just before our exams in college. That&#39;s no fun, isn&#39;t it?&nbsp; Our mission is to create a global online university where learning is joyful, brings happiness, feels good. We are working hard to deliver effective learning in a theme park like experience. Fun and humo(u)r defines us in what we do. </big></p>
+<br/>
+<p><big>If you also believe in this, join us...</big></p>
+<br><br/>
+<p style="text-align: center;"><a class="button" href="#">Know More</a></p>
+</div>
+<div id="rating">
+<div id="icon">
+<div>
+<ul>
+<li>
+<div class="icon">
+<i class="fa fa-graduation-cap"></i>
+</div>
+<div class="rate">
+65,000+
+</div>
+<div class="name">
+Students
+</div>
+</li>
+<li>
+<div class="icon">
+<i class="fa fa-globe"></i>
+</div>
+<div class="rate1">
+3 Mn +
+</div>
+<div class="name1">
+Minutes of Learning
+</div>
+</li>
+<li>
+<div class="icon">
+<i class="fa fa-star"></i>
+</div>
+<div class="rate2">
+10,000+
+</div>
+<div class="name2">
+Total Ratings
+</div>
+</li>
+<li>
+<div class="icon">
+<i class="fa fa-thumbs-up"></i>
+</div>
+<div class="rate3">
+4.5 / 5
+</div>
+<div class="name3">
+Average Rating
+</div>
+</li>
+</div>
+</div>
+</div>
+<div id="key_topic">
+<h1><strong>KEY TOPICS</strong></h1><br/><br/><br/><br/><br/>
+<ul>
+<li>
+<div class="img">
+<img src="image\section5\img1.png">
+</div>
+<div class="name1">
+Financial Modeling
+</div>
+</li>
+<li>
+<div class="img">
+<img src="image\section5\img2.png">
+</div>
+<div class="name2">
+Financial Analysis
+</div>
+</li>
+<li>
+<div class="img">
+<img src="image\section5\img3.png">
+</div>
+<div class="name3">
+Data Analysis
+</div>
+</li>
+<li>
+<div class="img">
+<img src="image\section5\img4.png">
+</div>
+<div class="name4">
+Valuation
+</div>
+</li>
+<li>
+<div class="img">
+<img src="image\section5\img5.png">
+</div>
+<div class="name5">
+Excel
+</div>
+</li>
+<li>
+<div class="img">
+<img src="image\section5\img6.png">
+</div>
+<div class="name6">
+Powerpoint
+</div>
+</li>
+</ul>
+</div>
+<div id="why_choose_us">
+<h1><strong>WHY CHOOSE US</strong></h1><br/><br/><br/><br/><br/>
+
+</div>
+<div id="slide-container">
+<center>
+<h1><strong>TESTIMONIALS</strong></h1><br/><br/><br/><br/><br/>
+  <div class="mySlides fade">
+    <img src="image\section7\img1.png">
+	<div class="text">
+      <h3><a >Rameez Akhtar</a></h3>
+      <h4>The Financial Analyst Skills Training (FAST) course</h4><br/><br/>
+<p><strong>The Course Covers Almost Everything That Will Give A Young Aspiring Financial Analyst All The Tools To Land A Suitable Job In This Competitivebbn World.</strong></p>
+     </div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="image\section7\img2.png">
+	<div class="text">
+	 <h3><a >Joseph Abruzzo</a></h3>
+      <h4>Financial analysis: Compare performance of companies</h4></br></br>
+<p><strong>This is a straight forward and visual presentation on how to think about evaluating a company &amp; its&nbsp;performance. The numerical examples, evaluation and score card are very useful. Thank you.</strong></p>
+         </div>
+
+
+  </div>
+
+  <div class="mySlides fade">
+    <img src="image\section7\img3.png">
+<div class="text">
+<h3><a >Jie Zhang</a></h3><br/>
+  <h4>The Data Analyst Skills Training course (DAST) with Excel</h4><br/><br/>
+<p><strong>Nice examples. Easy to follow. Inclusion of the spreadsheet is particularly helpful for enabling the student to practice what they are learning, thereby reinforcing the less</strong></p>
+    </div>
+
+  </div>
+   <div class="mySlides fade">
+    <img src="image\section7\img4.png">
+<div class="text">
+ <h3><a >Redvers Crooks</a></h3><br/>
+ <h4>Financial modeling: Build a DCF equity valuation model</h4><br/><br/>
+<p><strong>An excellent worthwhile course to study that has great presentation, narration and superb content.Helped me derive a legitimate valuation for our startup.</strong></p>
+    </div>
+  </div>
+</center>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  </div>
+  <div id="courses">
+  <h1><strong>MOST POPULAR COURSES</strong></h1><br/><br/><br/><br/><br/>
+  <ul>
+  <li>
+  <div class="course">
+  <a href="#"><img src="image\section8\img1.jpg"></a>
+  </div>
+  <div id="text">
+     <h3><a href=''>Premium : Financial Analyst Skills Bootcamp</a></h3>
+   <p>Master the complete Financial Analytics and Excel modeling skills by a McKinsey Expert | 50+ Live Online Classes and Unlimited Recorded Videos for 1 year</p>
+
+<h4>U$ 99</h4>
+  </div>
+  </li>
+ <li>
+  <div class="course">
+  <a href="#"><img src="image\section8\img2.jpg"></a>
+  </div>
+  <div id="text">
+   <h3><a href=''>Premium : Valuation Analysis Skills Bootcamp</a></h3>
+   <p>Master how to create a Fundamental Valuation Model for any company listed in Stock Market with a McKinsey Expert | 50+ Live Classes &amp; Recorded Videos for 1 year</p>
+
+<h4>U$ 99</h4>
+  </div>
+  </li>
+   <li>
+  <div class="course">
+  <a href="#"><img src="image\section8\img3.jpg"></a>
+  </div>
+  <div id="text">
+   <h3><a href=''>Premium : Data Analyst Skills with Excel Bootcamp</a></h3>
+   <p>Master how to undertake Data Analysis and Visualization in Excel with an Expert Instructor from McKinsey | 50+ Live Classes and Recorded Videos for 1 year</p>
+
+<h4>U$ 99</h4>
+  </div>
+  </li>
+  </ul>
+  </div>
+  <footer id="footer">
+  <a href="">All Courses | </a> <a href=""> Excel Courses | </a><a href=""> Finance Courses |</a><a href=""> PowerPoint Courses | </a> <a href=""> Accounting Courses | </a> <a href=""> Credit Analyst Courses |</a> <a href=""> Data Analysis Courses |</a><a href=""> Entrepreunership Courses |</a><a href=""> Finance Fundamental Courses | </a><a href=""> Financial Modeling Courses | </a> <a href=""> Free Courses |</a><a href=""> Investment Banking Courses |</a> <a href=""> Valuation Courses </a><br />
+<br />
+<br />
+Follow Us: <a href=""> LinkedIn |</a> <a href=""> YouTube |</a><a href=""> Instagram </a><br />
+Contact Us: support at skillfinlearning dot com<br />
+<br />
+<a href="">Privacy Policy |</a><a href=""> Terms of Use</a><br />
+<br /><p>
+Vivaan Education Management Private Limited | 261, Tower A, Spazedge, Sohna Road, Gurugram, Haryana 122018</p><br />
+<p>
+StartUp India Registration : DIPP67826. Registered with Department for Promotion of Industry and Internal Trade, Government of India</p><br />
+<br />
+<img  src="image\section9\img1.png" /><br />
+<img  src="image\section9\img2.png" /><br />
+<br />
+<p>Skillfin Learning is the trading name of Vivaan Education Management Private Limited. &copy; 2022 All Rights Reserved. Powered by <a href="" target="_blank">FOURDY!</a></p>
+  </footer>
+ </body>
+</html>
